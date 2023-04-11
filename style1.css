@@ -195,18 +195,26 @@ background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75
     cursor: pointer;
   }
 
-.facebook{
- padding: 20px;
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
   font-size: 30px;
   width: 50px;
   text-align: center;
   text-decoration: none;
-     background: #3B5998;
-  color: white;
-    
 }
-.facebook:hover {
+
+/* Add a hover effect if you want */
+.fa:hover {
   opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
 }
 
 
