@@ -1,0 +1,14 @@
+
+error1= uski pictures web browser ma side by side 50/50 
+nazar arhi but mri only jab >=650 
+sol= error in code of classes, in html and css classes names was different thats why the code is not executed and giving no output.  
+
+error2= uski email or msg wla block ha wo contacts kay 
+right side pr show horha ha or mra contacts kay neechay
+sol= done by checking code again and changing little bit
+
+error3= text is not floating on the images but changing color while hovering
+
+error4= in forms, the email and message textarea height is very big
+
+error5= submit button
