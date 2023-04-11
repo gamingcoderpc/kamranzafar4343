@@ -183,3 +183,37 @@ background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75
 
 }
 
+.github {
+    background-color: rgb(46, 164, 79);
+    color: white;
+    border: none;
+    height: 40px;
+    width: 90px;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+
+.facebook{
+
+    
+}
+
+.linkedin{
+    background-color: rgb(10, 102, 194);
+    color: white;
+    border: none;
+    height: 40px;
+    width: 240px;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: background-color 0.15s;
+  }
+
+  .linkedin:hover {
+    background-color: rgb(2, 70, 138);
+}
