@@ -196,9 +196,17 @@ background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75
   }
 
 .facebook{
-
+ padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
     
 }
+.facebook:hover {
+  opacity: 0.7;
+}
+
 
 .linkedin{
     background-color: rgb(10, 102, 194);
